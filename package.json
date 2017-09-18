@@ -1,14 +1,15 @@
 {
   "name": "egg-qversion",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "ykit version for egg",
   "eggPlugin": {
     "name": "qversion"
   },
   "keywords": [
     "egg",
     "eggPlugin",
-    "egg-plugin"
+    "egg-plugin",
+    "ykit version"
   ],
   "dependencies": {},
   "devDependencies": {
@@ -37,7 +38,8 @@
   },
   "files": [
     "config",
-    "app"
+    "app",
+    "lib"
   ],
   "ci": {
     "version": "6, 8"
