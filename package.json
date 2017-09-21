@@ -1,6 +1,6 @@
 {
   "name": "egg-qversion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ykit version for egg",
   "eggPlugin": {
     "name": "qversion"
@@ -38,8 +38,7 @@
   },
   "files": [
     "config",
-    "app",
-    "lib"
+    "app"
   ],
   "ci": {
     "version": "6, 8"
